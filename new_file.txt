@@ -3,3 +3,4 @@ Git Textfile Upload Test
 (remote) 2nd modified
 --------------------------------------
 branch_2 : 1st modified
+branch_2 : 2st modified
