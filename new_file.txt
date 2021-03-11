@@ -2,7 +2,7 @@ Git Textfile Upload Test
 (local) 1st modified
 (remote) 2nd modified
 --------------------------------------
-
-
+branch_1 : 1st modified
+branch_1 : 2st modified
 branch_2 : 1st modified
 branch_2 : 2st modified
